@@ -1,3 +1,3 @@
 # session
 
-요시 - week1 완료입니다
+yoshi-week1 complete
